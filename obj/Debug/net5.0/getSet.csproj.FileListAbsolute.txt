@@ -1,0 +1,16 @@
+G:\dotnet\Console application\getset\getSet\bin\Debug\net5.0\getSet.exe
+G:\dotnet\Console application\getset\getSet\bin\Debug\net5.0\getSet.deps.json
+G:\dotnet\Console application\getset\getSet\bin\Debug\net5.0\getSet.runtimeconfig.json
+G:\dotnet\Console application\getset\getSet\bin\Debug\net5.0\getSet.runtimeconfig.dev.json
+G:\dotnet\Console application\getset\getSet\bin\Debug\net5.0\getSet.dll
+G:\dotnet\Console application\getset\getSet\bin\Debug\net5.0\ref\getSet.dll
+G:\dotnet\Console application\getset\getSet\bin\Debug\net5.0\getSet.pdb
+G:\dotnet\Console application\getset\getSet\obj\Debug\net5.0\getSet.csproj.AssemblyReference.cache
+G:\dotnet\Console application\getset\getSet\obj\Debug\net5.0\getSet.GeneratedMSBuildEditorConfig.editorconfig
+G:\dotnet\Console application\getset\getSet\obj\Debug\net5.0\getSet.AssemblyInfoInputs.cache
+G:\dotnet\Console application\getset\getSet\obj\Debug\net5.0\getSet.AssemblyInfo.cs
+G:\dotnet\Console application\getset\getSet\obj\Debug\net5.0\getSet.csproj.CoreCompileInputs.cache
+G:\dotnet\Console application\getset\getSet\obj\Debug\net5.0\getSet.dll
+G:\dotnet\Console application\getset\getSet\obj\Debug\net5.0\ref\getSet.dll
+G:\dotnet\Console application\getset\getSet\obj\Debug\net5.0\getSet.pdb
+G:\dotnet\Console application\getset\getSet\obj\Debug\net5.0\getSet.genruntimeconfig.cache
